@@ -1,0 +1,1139 @@
+[STARTUP]  
+[STARTUP]  
+[STARTUP] Logging started
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830', '84210004']
+[STARTUP] -----
+[STARTUP] -----
+[STARTUP] Logging started
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830', '84210004']
+[STARTUP] -----     -----
+[STARTUP] -----     -----
+[STARTUP] Logging started
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830', '84210004']
+
+
+
+[STARTUP] Logging started
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830', '84210004']
+
+
+
+[STARTUP] Logging started
+[STARTUP] Start time: 2020-02-15 11:12:53.419572
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830', '84210004']
+
+
+
+[STARTUP] Logging started
+[STARTUP] Start time 2020-02-15 11:13:16.906370
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830', '84210004']
+
+
+
+[STARTUP] Logging started at 2020-02-15 11:14:27.110465
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830', '84210004']
+
+
+
+[STARTUP] Logging started at 2020-02-15 11:16:37.758605
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830', '84210004']
+[LOG] !list executed, Executor: depozzyx
+
+
+
+[STARTUP] Logging started at 2020-02-15 11:18:17.490419
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !list executed, Executor: depozzyx
+[DEBUG] Members update => New Member: {'id': 84210004, 'is_bot': True, 'first_name': 'PollBot', 'username': 'PollBot', 'last_name': None, 'language_code': None}
+[LOG] USERS array update: ['560399754', '897887830', 84210004]
+[LOG] !list executed, Executor: depozzyx
+
+
+
+[STARTUP] Logging started at 2020-02-15 11:19:47.387297
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830', '84210004']
+[LOG] !list executed, Executor: depozzyx
+[DEBUG] Members update => Member Leaved: {'id': 84210004, 'is_bot': True, 'first_name': 'PollBot', 'username': 'PollBot', 'last_name': None, 'language_code': None}
+[LOG] USERS array update: ['560399754', '897887830', '84210004']
+      Id(84210004) wasn`t in array!
+[LOG] !list executed, Executor: depozzyx
+
+
+
+[STARTUP] Logging started at 2020-02-15 11:23:53.435741
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !list executed, Executor: depozzyx
+[DEBUG] Members update => New Member: {'id': 84210004, 'is_bot': True, 'first_name': 'PollBot', 'username': 'PollBot', 'last_name': None, 'language_code': None}
+[LOG] USERS array update: ['560399754', '897887830', '84210004']
+[LOG] !list executed, Executor: depozzyx
+[DEBUG] Members update => Member Leaved: {'id': 84210004, 'is_bot': True, 'first_name': 'PollBot', 'username': 'PollBot', 'last_name': None, 'language_code': None}
+[LOG] USERS array update: ['560399754', '897887830']
+[LOG] !list executed, Executor: depozzyx
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] !yell answered, Answerer: Стас
+[DEBUG] [897887830]/897887830
+[DEBUG] yelling: 1, yelmas: []
+
+
+
+[STARTUP] Logging started at 2020-02-15 11:26:49.622940
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] !yell answered, Answerer: Стас
+[DEBUG] [897887830]/897887830
+[DEBUG] yelling: 1, yelmas: []
+
+
+
+[STARTUP] Logging started at 2020-02-15 11:31:35.132423
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] !yell answered, Answerer: Стас
+[DEBUG] [897887830]/897887830
+[DEBUG] yelling: 1, yelmas: []
+
+
+
+[STARTUP] Logging started at 2020-02-15 11:34:02.274932
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] !yell answered, Answerer: Стас
+[DEBUG] [897887830]/897887830
+[DEBUG] yelling: 1, yelmas: []
+
+
+
+[STARTUP] Logging started at 2020-02-15 11:39:54.818552
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+
+
+
+[STARTUP] Logging started at 2020-02-15 11:41:25.337183
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell execution failed, Executor: depozzyx
+
+
+
+[STARTUP] Logging started at 2020-02-15 11:44:37.144756
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+
+
+
+[STARTUP] Logging started at 2020-02-15 11:45:48.606151
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+
+
+
+[STARTUP] Logging started at 2020-02-15 11:47:01.033853
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+
+
+
+[STARTUP] Logging started at 2020-02-15 11:47:43.770987
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+
+
+
+[STARTUP] Logging started at 2020-02-15 11:48:19.074477
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+
+
+
+[STARTUP] Logging started at 2020-02-15 11:48:41.264684
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+
+
+
+[STARTUP] Logging started at 2020-02-15 11:50:00.565935
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+
+
+
+[STARTUP] Logging started at 2020-02-15 11:51:06.880017
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell execution failed, Executor: depozzyx
+
+
+
+[STARTUP] Logging started at 2020-02-15 11:51:30.657728
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell execution failed, Executor: depozzyx
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] !yell execution failed, Executor: depozzyx
+
+
+
+[STARTUP] Logging started at 2020-02-15 11:52:14.831619
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell execution failed, Executor: depozzyx
+[LOG] !yell execution failed, Executor: depozzyx
+[LOG] !yell execution failed, Executor: depozzyx
+
+
+
+[STARTUP] Logging started at 2020-02-15 11:52:36.619989
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] msg sent: !yeД chat id: -1001437362015
+[LOG] msg sent: !YELL chat id: -1001437362015
+[LOG] !yell execution failed, Executor: depozzyx
+[LOG] !yell execution failed, Executor: depozzyx
+
+
+
+[STARTUP] Logging started at 2020-02-15 11:54:08.534561
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell execution failed, Executor: depozzyx
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+
+
+
+[STARTUP] Logging started at 2020-02-15 11:54:57.992556
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell execution failed, Executor: depozzyx
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+
+
+
+[STARTUP] Logging started at 2020-02-15 11:57:21.560032
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell execution failed, Executor: depozzyx
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+
+
+
+[STARTUP] Logging started at 2020-02-15 11:59:29.412750
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell execution failed, Executor: depozzyx
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+
+
+
+[STARTUP] Logging started at 2020-02-15 12:00:37.700144
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+
+
+
+[STARTUP] Logging started at 2020-02-15 12:01:00.690034
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+
+
+
+[STARTUP] Logging started at 2020-02-15 12:01:39.897917
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+
+
+
+[STARTUP] Logging started at 2020-02-15 12:02:05.066284
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+
+
+
+[STARTUP] Logging started at 2020-02-15 12:02:14.312698
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] !yell answered, Answerer: Стас
+[DEBUG] [897887830]/897887830
+
+
+
+[STARTUP] Logging started at 2020-02-15 12:03:08.035776
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] !yell answered, Answerer: Стас
+[DEBUG] [897887830]/897887830
+[DEBUG] yelling: 0, yelmas: []
+
+
+
+[STARTUP] Logging started at 2020-02-15 12:05:45.254564
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+
+
+
+[STARTUP] Logging started at 2020-02-15 12:07:36.861681
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+
+
+
+[STARTUP] Logging started at 2020-02-15 12:08:37.207691
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] !yell execution failed, Executor: depozzyx
+
+
+
+[STARTUP] Logging started at 2020-02-15 12:09:38.313002
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] !yell execution failed, Executor: depozzyx
+[LOG] !yell answered, Answerer: Стас
+[DEBUG] [897887830]/897887830
+[DEBUG] yelling: 0, yelmas: []
+[LOG] !yell execution failed, Executor: depozzyx
+[LOG] !yell execution failed, Executor: depozzyx
+
+
+
+[STARTUP] Logging started at 2020-02-15 12:10:37.278893
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] !yell answered, Answerer: Стас
+[DEBUG] [897887830]/897887830
+[DEBUG] yelling: 0, yelmas: []
+[LOG] !yell execution failed, Executor: depozzyx
+[LOG] !yell execution failed, Executor: depozzyx
+
+
+
+[STARTUP] Logging started at 2020-02-15 12:14:00.613062
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell execution failed, Executor: depozzyx
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] !yell answered, Answerer: Стас
+[DEBUG] [897887830]/897887830
+[DEBUG] yelling: 0, yelmas: []
+[LOG] !yell execution failed, Executor: depozzyx
+
+
+
+[STARTUP] Logging started at 2020-02-15 12:14:45.135137
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+
+
+
+[STARTUP] Logging started at 2020-02-15 12:15:23.408664
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+
+
+
+[STARTUP] Logging started at 2020-02-15 12:17:52.215834
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+
+
+
+[STARTUP] Logging started at 2020-02-15 12:18:57.358580
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] !yell execution failed, Executor: depozzyx
+[LOG] !yell answered, Answerer: Стас
+[DEBUG] [897887830]/897887830
+[DEBUG] yelling: 0, yelmas: []
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] !yell execution failed, Executor: depozzyx
+
+
+
+[STARTUP] Logging started at 2020-02-15 12:31:51.156356
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+
+
+
+[STARTUP] Logging started at 2020-02-15 12:31:58.857798
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] !yell answered, Answerer: Стас
+[DEBUG] [897887830]/897887830
+[DEBUG] yelling: 0, yelmas: []
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] !yell execution failed, Executor: depozzyx
+[LOG] !yell answered, Answerer: Стас
+[DEBUG] [897887830]/897887830
+[DEBUG] yelling: 0, yelmas: []
+
+
+
+[STARTUP] Logging started at 2020-02-15 12:32:49.306292
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] !yell answered, Answerer: Стас
+[DEBUG] [897887830]/897887830
+[DEBUG] yelling: 0, yelmas: []
+[LOG] !yell executed, Executor: Стас
+[DEBUG] yelling: 1, yelmas: [560399754]
+[LOG] !yell answered, Answerer: depozzyx
+[DEBUG] [560399754]/560399754
+[DEBUG] yelling: 0, yelmas: []
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] !yell execution failed, Executor: Стас
+[LOG] !yell answered, Answerer: Стас
+[DEBUG] [897887830]/897887830
+[DEBUG] yelling: 0, yelmas: []
+
+
+
+[STARTUP] Logging started at 2020-02-15 12:34:45.456832
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] !yell answered, Answerer: Стас
+[DEBUG] [897887830]/897887830
+[DEBUG] yelling: 0, yelmas: []
+
+
+
+[STARTUP] Logging started at 2020-02-15 12:35:46.753562
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] !yell answered, Answerer: Стас
+[DEBUG] [897887830]/897887830
+[DEBUG] yelling: 0, yelmas: []
+[LOG] !list executed, Executor: depozzyx
+
+
+
+[STARTUP] Logging started at 2020-02-16 10:54:07.368397
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] !yell answered, Answerer: Стас
+[DEBUG] [897887830]/897887830
+[DEBUG] yelling: 0, yelmas: []
+
+
+
+[STARTUP] Logging started at 2020-02-16 10:58:52.144607
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] !yell answered, Answerer: Стас
+[DEBUG] [897887830]/897887830
+[DEBUG] yelling: 0, yelmas: []
+[LOG] msg sent: Короче иди нахуй chat id: -1001437362015
+
+
+
+[STARTUP] Logging started at 2020-02-16 11:11:19.152322
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+
+
+
+[STARTUP] Logging started at 2020-02-16 11:11:32.205135
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] !yell answered, Answerer: Стас
+[DEBUG] [897887830]/897887830
+[DEBUG] yelling: 0, yelmas: []
+[LOG] !yell executed, Executor: Стас
+[DEBUG] yelling: 1, yelmas: [560399754]
+
+
+
+[STARTUP] Logging started at 2020-02-16 11:13:31.404602
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: Стас
+[DEBUG] yelling: 1, yelmas: [560399754]
+[LOG] msg sent: "Стасян" chat id: -1001437362015
+[LOG] msg sent: @depozzux_sux_bot chat id: -1001437362015
+
+
+
+[STARTUP] Logging started at 2020-02-16 11:15:22.071470
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] msg sent: !yellsdsds chat id: -1001437362015
+
+
+
+[STARTUP] Logging started at 2020-02-16 11:17:35.091352
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: Стас
+[DEBUG] yelling: 1, yelmas: [560399754]
+[LOG] msg sent: @depozzyx chat id: -1001437362015
+[LOG] msg sent: @depozzux_sux_bot chat id: -1001437362015
+
+
+
+[STARTUP] Logging started at 2020-02-16 11:21:07.803655
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: Стас
+[DEBUG] yelling: 1, yelmas: [560399754]
+
+
+
+[STARTUP] Logging started at 2020-02-16 11:23:10.356671
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] msg sent: @560399754 (Father) chat id: -1001437362015
+[LOG] msg sent: @93372553 (Father of bots) chat id: -1001437362015
+
+
+
+[STARTUP] Logging started at 2020-02-16 11:24:39.904691
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+
+
+
+[STARTUP] Logging started at 2020-02-16 11:35:02.809959
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+
+
+
+[STARTUP] Logging started at 2020-02-16 11:37:03.064027
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] msg sent: ! yellend chat id: -1001437362015
+[LOG] !yell execution failed, Executor: Стас
+[LOG] !yell answered, Answerer: Стас
+[DEBUG] [897887830]/897887830
+[DEBUG] yelling: 0, yelmas: []
+[LOG] !yell executed, Executor: Стас
+[DEBUG] yelling: 1, yelmas: [560399754]
+
+
+
+[STARTUP] Logging started at 2020-02-16 11:39:14.549774
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] !yell answered, Answerer: Стас
+[DEBUG] [897887830]/897887830
+[DEBUG] yelling: 0, yelmas: []
+[LOG] !yell executed, Executor: Стас
+[DEBUG] yelling: 1, yelmas: [560399754]
+
+
+
+[STARTUP] Logging started at 2020-02-16 11:43:18.841982
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+
+
+
+[STARTUP] Logging started at 2020-02-16 11:45:03.424149
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+
+
+
+[STARTUP] Logging started at 2020-02-16 11:45:54.250815
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+
+
+
+[STARTUP] Logging started at 2020-02-16 11:47:18.002052
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+
+
+
+[STARTUP] Logging started at 2020-02-16 11:49:04.728791
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[DEBUG] Members update => New Member: {'id': 506563771, 'is_bot': False, 'first_name': 'Дима™', 'username': 'restylesidq', 'last_name': None, 'language_code': None}
+[LOG] USERS array update: ['560399754', '897887830', '506563771']
+[LOG] !yell execution failed, Executor: depozzyx
+[DEBUG] Members update => Member Leaved: {'id': 506563771, 'is_bot': False, 'first_name': 'Дима™', 'username': 'restylesidq', 'last_name': None, 'language_code': None}
+[LOG] USERS array update: ['560399754', '897887830']
+
+
+
+[STARTUP] Logging started at 2020-02-16 11:50:03.984841
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[DEBUG] Members update => New Member: {'id': 506563771, 'is_bot': False, 'first_name': 'Дима™', 'username': 'restylesidq', 'last_name': None, 'language_code': None}
+[LOG] USERS array update: ['560399754', '897887830', '506563771']
+[LOG] !list executed, Executor: depozzyx
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830, 506563771]
+[LOG] !yell answered, Answerer: Стас
+[DEBUG] [897887830, 506563771]/897887830
+[DEBUG] yelling: 1, yelmas: [506563771]
+[DEBUG] Members update => Member Leaved: {'id': 506563771, 'is_bot': False, 'first_name': 'Дима™', 'username': 'restylesidq', 'last_name': None, 'language_code': None}
+[LOG] USERS array update: ['560399754', '897887830']
+[LOG] !list executed, Executor: depozzyx
+[LOG] !yell execution failed, Executor: depozzyx
+
+
+
+[STARTUP] Logging started at 2020-02-16 12:01:14.626514
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+
+
+
+[STARTUP] Logging started at 2020-02-16 12:02:29.856447
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+
+
+
+[STARTUP] Logging started at 2020-02-16 12:03:20.544283
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+
+
+
+[STARTUP] Logging started at 2020-02-16 12:03:43.619223
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] !yell execution failed, Executor: depozzyx
+[DEBUG] Members update => New Member: {'id': 506563771, 'is_bot': False, 'first_name': 'Дима™', 'username': 'restylesidq', 'last_name': None, 'language_code': None}
+[LOG] USERS array update: ['560399754', '897887830', '506563771']
+[LOG] !yell execution failed, Executor: depozzyx
+[LOG] !yell executed, Executor: depozzyx
+[LOG] msg sent: Я chat id: -1001437362015
+[DEBUG] yelling: 1, yelmas: [897887830, 506563771]
+[LOG] msg sent: Ответь плиз chat id: -1001437362015
+[LOG] msg sent: Что-то chat id: -1001437362015
+[LOG] !yell answered, Answerer: Дима™
+[DEBUG] [897887830, 506563771]/506563771
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] !yell answered, Answerer: Стас
+[DEBUG] [897887830]/897887830
+[DEBUG] yelling: 0, yelmas: []
+[LOG] msg sent: отлично chat id: -1001437362015
+[LOG] msg sent: спасибо chat id: -1001437362015
+[DEBUG] Members update => Member Leaved: {'id': 506563771, 'is_bot': False, 'first_name': 'Дима™', 'username': 'restylesidq', 'last_name': None, 'language_code': 'ru'}
+[LOG] USERS array update: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] !yell answered, Answerer: Стас
+[DEBUG] [897887830]/897887830
+[DEBUG] yelling: 0, yelmas: []
+
+
+
+[STARTUP] Logging started at 2020-02-16 12:12:04.137355
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] !yell answered, Answerer: Стас
+[DEBUG] [897887830]/897887830
+[DEBUG] yelling: 0, yelmas: []
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] !yell answered, Answerer: Стас
+[DEBUG] [897887830]/897887830
+[DEBUG] yelling: 0, yelmas: []
+
+
+
+[STARTUP] Logging started at 2020-02-16 12:12:52.295291
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] !yell answered, Answerer: Стас
+[DEBUG] [897887830]/897887830
+[DEBUG] yelling: 0, yelmas: []
+
+
+
+[STARTUP] Logging started at 2020-02-16 12:13:15.734081
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] !yell answered, Answerer: Стас
+[DEBUG] [897887830]/897887830
+[DEBUG] yelling: 0, yelmas: []
+[LOG] !yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+
+
+
+[STARTUP] Logging started at 2020-02-16 16:10:02.688344
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+
+
+
+[STARTUP] Logging started at 2020-02-16 16:10:56.134579
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] /myid executed, Executor: depozzyx
+[LOG] msg sent: /yellend@depozzux_sux_bot chat id: -1001437362015
+[LOG] msg sent: /yell@depozzux_sux_bot chat id: -1001437362015
+[LOG] msg sent: /yell@depozzux_sux_bot chat id: -1001437362015
+[LOG] msg sent: /yell@depozzux_sux_bot chat id: -1001437362015
+[LOG] msg sent: /yellend@depozzux_sux_bot chat id: -1001437362015
+[LOG] msg sent: /info@depozzux_sux_bot chat id: -1001437362015
+[LOG] msg sent: /yellend chat id: 560399754
+[LOG] msg sent: /yellend@depozzux_sux_bot chat id: -1001437362015
+[LOG] msg sent: /yell dsdsd chat id: -1001437362015
+[LOG] /myid executed, Executor: depozzyx
+[LOG] /myid executed, Executor: depozzyx
+
+
+
+[STARTUP] Logging started at 2020-02-16 16:24:30.317835
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] /list executed, Executor: depozzyx
+
+
+
+[STARTUP] Logging started at 2020-02-16 18:16:43.917251
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] /yell executed, Executor: depozzyx
+[LOG] /yell executed, Executor: depozzyx
+[LOG] /yell executed, Executor: depozzyx
+[LOG] !yell execution failed, Executor: depozzyx
+
+
+
+[STARTUP] Logging started at 2020-02-16 18:17:53.693582
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] /yell executed, Executor: depozzyx
+[LOG] /yell executed, Executor: depozzyx
+[LOG] /yell executed, Executor: depozzyx
+[LOG] /yell executed, Executor: depozzyx
+
+
+
+[STARTUP] Logging started at 2020-02-16 18:20:28.499537
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] /yell executed, Executor: depozzyx
+
+
+
+[STARTUP] Logging started at 2020-02-16 18:22:05.042847
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] /yell executed, Executor: depozzyx
+
+
+
+[STARTUP] Logging started at 2020-02-16 18:22:19.941190
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] /yell executed, Executor: depozzyx
+[LOG] /yell executed, Executor: depozzyx
+
+
+
+[STARTUP] Logging started at 2020-02-16 18:44:48.786530
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] /yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+
+
+
+[STARTUP] Logging started at 2020-02-16 18:45:07.040511
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] /yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] /yell executed, Executor: depozzyx
+[LOG] /yell execution failed, Code: another /yell is running, Executor: depozzyx
+[LOG] /yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] !yell answered, Answerer: Стас
+[DEBUG] [897887830]/897887830
+[DEBUG] yelling: 0, yelmas: []
+[LOG] /yell executed, Executor: depozzyx
+[LOG] /yell execution failed, Code: html tag abuse, Executor: depozzyx
+
+
+
+[STARTUP] Logging started at 2020-02-16 18:52:57.439333
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] /info executed, Executor: depozzyx
+[LOG] /yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830]
+[DEBUG] Members update => Member Leaved: {'id': 897887830, 'is_bot': False, 'first_name': 'Стас', 'username': None, 'last_name': None, 'language_code': 'ru'}
+[LOG] USERS array update: ['560399754']
+[DEBUG] Members update => New Member: {'id': 897887830, 'is_bot': False, 'first_name': 'Стас', 'username': None, 'last_name': None, 'language_code': 'ru'}
+[LOG] USERS array update: ['560399754', '897887830']
+[LOG] /info executed, Executor: depozzyx
+
+
+
+[STARTUP] Logging started at 2020-02-16 18:56:21.786839
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] /info executed, Executor: depozzyx
+
+
+
+[STARTUP] Logging started at 2020-02-16 18:57:22.925367
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] /info executed, Executor: depozzyx
+
+
+
+[STARTUP] Logging started at 2020-02-16 19:06:16.839151
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] /info executed, Executor: depozzyx
+[LOG] /info executed, Executor: depozzyx
+
+
+
+[STARTUP] Logging started at 2020-02-16 19:08:09.623949
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] /start executed, Executor: depozzyx
+
+
+
+[STARTUP] Logging started at 2020-02-16 19:10:18.732363
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] /start executed, Executor: depozzyx
+[LOG] /info executed, Executor: depozzyx
+
+
+
+[STARTUP] Logging started at 2020-02-18 20:45:37.417026
+[STARTUP] Token loaded
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[DEBUG] Members update => New Member: {'id': 897887830, 'is_bot': False, 'first_name': 'Стас', 'username': None, 'last_name': None, 'language_code': 'ru'}
+[LOG] USERS array update: ['560399754', '897887830', '897887830']
+
+
+
+[STARTUP] Logging started at 2020-02-18 21:02:07.265982
+[STARTUP] Token loaded
+
+
+
+[STARTUP] Logging started at 2020-02-18 21:02:36.453386
+[STARTUP] Token loaded
+
+
+
+[STARTUP] Logging started at 2020-02-18 21:03:42.502682
+[STARTUP] Token loaded
+[LOG] /list executed, Executor: depozzyx
+
+
+
+[STARTUP] Logging started at 2020-02-18 21:03:57.367953
+[STARTUP] Token loaded
+[LOG] /list executed, Executor: depozzyx
+
+
+
+[STARTUP] Logging started at 2020-02-18 21:04:57.944755
+[STARTUP] Token loaded
+[LOG] /list executed, Executor: depozzyx
+
+
+
+[STARTUP] Logging started at 2020-02-18 21:06:57.278555
+[STARTUP] Token loaded
+[LOG] /list executed, Executor: depozzyx
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+
+
+
+[STARTUP] Logging started at 2020-02-18 21:10:02.254947
+[STARTUP] Token loaded
+[LOG] /list executed, Executor: depozzyx
+[STARTUP] Users loaded, Array: []
+
+
+
+[STARTUP] Logging started at 2020-02-18 21:10:46.882470
+[STARTUP] Token loaded
+[LOG] /list executed, Executor: depozzyx
+[STARTUP] Users loaded, Array: []
+
+
+
+[STARTUP] Logging started at 2020-02-18 21:11:30.265833
+[STARTUP] Token loaded
+[LOG] /list executed, Executor: depozzyx
+[STARTUP] Users loaded, Array: []
+
+
+
+[STARTUP] Logging started at 2020-02-18 21:14:10.073429
+[STARTUP] Token loaded
+[LOG] /list executed, Executor: depozzyx
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+
+
+
+[STARTUP] Logging started at 2020-02-18 21:16:33.519394
+[STARTUP] Token loaded
+[LOG] /list executed, Executor: depozzyx
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+
+
+
+[STARTUP] Logging started at 2020-02-18 21:19:03.347822
+[STARTUP] Token loaded
+[DEBUG] Members update => Member Leaved: {'id': 897887830, 'is_bot': False, 'first_name': 'Стас', 'username': None, 'last_name': None, 'language_code': 'ru'}
+[LOG] USERS array update: []
+      Id(897887830) wasn`t in array!
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[DEBUG] Members update => New Member: {'id': 897887830, 'is_bot': False, 'first_name': 'Стас', 'username': None, 'last_name': None, 'language_code': 'ru'}
+[LOG] USERS array update: ['560399754', '897887830', '897887830']
+
+
+
+[STARTUP] Logging started at 2020-02-18 21:20:28.215868
+[STARTUP] Token loaded
+[DEBUG] Members update => Member Leaved: {'id': 897887830, 'is_bot': False, 'first_name': 'Стас', 'username': None, 'last_name': None, 'language_code': 'ru'}
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] USERS array update: ['560399754']
+[DEBUG] Members update => New Member: {'id': 897887830, 'is_bot': False, 'first_name': 'Стас', 'username': None, 'last_name': None, 'language_code': 'ru'}
+[LOG] USERS array update: ['560399754', '897887830']
+[LOG] /list executed, Executor: depozzyx
+
+
+
+[STARTUP] Logging started at 2020-02-18 21:20:56.128721
+[STARTUP] Token loaded
+[LOG] /yell executed, Executor: depozzyx
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+
+
+
+[STARTUP] Logging started at 2020-02-18 21:22:22.723489
+[STARTUP] Token loaded
+[LOG] /yell executed, Executor: depozzyx
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] /yell executed, Executor: depozzyx
+[LOG] /yell execution failed, Code: another /yell is running, Executor: depozzyx
+[LOG] /yell executed, Executor: depozzyx
+[LOG] /yell execution failed, Code: no /yell msg, Executor: depozzyx
+
+
+
+[STARTUP] Logging started at 2020-02-18 21:23:31.055568
+[STARTUP] Token loaded
+[LOG] /yell executed, Executor: depozzyx
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+
+
+
+[STARTUP] Logging started at 2020-02-18 21:23:37.549174
+[STARTUP] Token loaded
+[LOG] /yell executed, Executor: depozzyx
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+
+
+
+[STARTUP] Logging started at 2020-02-18 21:24:37.279171
+[STARTUP] Token loaded
+[LOG] /yell executed, Executor: depozzyx
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] /yell executed, Executor: depozzyx
+[LOG] /yell execution failed, Code: no /yell msg, Executor: depozzyx
+
+
+
+[STARTUP] Logging started at 2020-02-18 21:25:00.822812
+[STARTUP] Token loaded
+[LOG] /yell executed, Executor: depozzyx
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[LOG] /yell execution failed, Code: no /yell msg, Executor: depozzyx
+
+
+
+[STARTUP] Logging started at 2020-02-18 21:25:55.045788
+[STARTUP] Token loaded
+[LOG] /yell executed, Executor: depozzyx
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[DEBUG] yelling: 1, yelmas: [897887830]
+[LOG] msg sent: Доступные комманды: /myid /list /yell !yellend /info /start chat id: -1001437362015
+
+
+
+[STARTUP] Logging started at 2020-02-19 07:15:59.897309
+[STARTUP] Token loaded
+
+
+
+[STARTUP] Logging started at 2020-02-19 21:13:44.740727
+[STARTUP] Token loaded
+
+
+
+[STARTUP] Logging started at 2020-02-19 21:14:36.752797
+[STARTUP] Token loaded
+[LOG] msg sent: /yel dssd chat id: -1001437362015
+[LOG] /yell executed, Executor: depozzyx
+[STARTUP] Users loaded, Array: ['560399754', '897887830']
+[DEBUG] yelling: 1, yelmas: [897887830]
+[DEBUG] Members update => Member Leaved: {'id': 506563771, 'is_bot': False, 'first_name': 'Дима™', 'username': 'restylesidq', 'last_name': None, 'language_code': 'ru'}
+[LOG] USERS array update: ['560399754', '897887830']
+      Id(506563771) wasn`t in array!
+[DEBUG] Members update => New Member: {'id': 506563771, 'is_bot': False, 'first_name': 'Дима™', 'username': 'restylesidq', 'last_name': None, 'language_code': 'ru'}
+[LOG] USERS array update: ['560399754', '897887830', '506563771']
+[LOG] /yell executed, Executor: depozzyx
+[DEBUG] yelling: 1, yelmas: [897887830, 506563771]
+
+
+
+[STARTUP] Logging started at 2020-02-19 21:17:06.034884
+[STARTUP] Token loaded
+[LOG] /yell executed, Executor: depozzyx
+[STARTUP] Users loaded, Array: ['560399754', '897887830', '506563771']
+
+
+
+[STARTUP] Logging started at 2020-02-19 21:17:24.608808
+[STARTUP] Token loaded
+[LOG] /yell executed, Executor: depozzyx
+[STARTUP] Users loaded, Array: ['560399754', '897887830', '506563771']
+
+
+
+[STARTUP] Logging started at 2020-02-19 21:17:42.249596
+[STARTUP] Token loaded
+[LOG] /yell executed, Executor: depozzyx
+[STARTUP] Users loaded, Array: ['560399754', '897887830', '506563771']
+[DEBUG] yelling: 1, yelmas: [897887830, 506563771]
+
+
+
+[STARTUP] Logging started at 2020-02-19 21:24:58.667425
+[STARTUP] Token loaded
+[LOG] /yell executed, Executor: depozzyx
+[STARTUP] Users loaded, Array: ['560399754', '897887830', '506563771']
+[DEBUG] yelling: 1, yelmas: [897887830, 506563771]
